@@ -7,7 +7,7 @@
 - IdlingResourceSample
 - IntentsBasicSample
 
-All the above apps can be found in the below link to download.
+All the above apps can be found in the below link to download:
 
-https://github.com/android/testing-samples
+[android/testing-samples](https://github.com/android/testing-samples)
 
