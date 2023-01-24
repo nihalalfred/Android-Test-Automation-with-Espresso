@@ -1,5 +1,4 @@
-Introduction to Mobile UI Testing
-=================================
+# Introduction to Mobile UI Testing
 
 Testing your mobile app is a vital part of the app development process.
 
@@ -10,19 +9,16 @@ Consistent execution of tests against your mobile app verifies:
 - usability prior to public release.
 
 
-Native Vs. Cross- Platform Mobile Testing Tools
-================================================
+## Native Vs. Cross- Platform Mobile Testing Tools
 
-* Cross-platform testing tool:
-------------------------------
+### Cross-platform testing tool:
 
 Within the mobile space, the term "cross-platform" implies support for all major mobile platforms
 including iOS, Android and Windows phones.
 
 Appium is one example which also supports many programming languages.
 
-* Native testing tool:
------------------------
+### Native testing tool:
 
 In contrast, a native tool is developed, released, and supported on a single mobile platform.
 
@@ -31,8 +27,7 @@ Examples include Espresso for Android and XCUITest for iOS.
 Espresso supports Java and Kotlin programming languages while XCUITest supports Swift
 and Objective-C.
 
-Android Jetpack
-===============
+## Android Jetpack
 
 Jetpack is a suite of libraries, tools, and guidance to help developers write high-quality app
 easier.
@@ -40,16 +35,15 @@ easier.
 These templates or components help you follow best practices and simplify complex tasks, so you can
 focus on the code you care about.
 
-Different components of Android Jetpack
---------------------------------------
+## Different components of Android Jetpack
 
 - Architecture
 - UI
 - Behaviour
 - Foundation -> AndroidX Espresso - > Test (see attached image)
 
-AndroidX
-=========
+## AndroidX
+
 
 AndroidX is an improved version of the android support libraries that the android team uses to
 develop, test, package, version and release libraries within the Jetpack.
@@ -60,8 +54,7 @@ AndroidX includes the following features:
 - All packages in AndroidX are in consistent namespace starting with the string AndroidX.
 - Unlike the previous support libraries, AndroidX packages are separately maintained and updated.
 
-Espresso
-========
+## Espresso
 
 - Espresso is a testing framework, provided by AndroidX, provides APIs for writing UI tests to
 simulate user interactions within a single target app.
@@ -78,8 +71,7 @@ and run tests.
 
 - Used with Java and Kotlin.
 
-How does it work?
-=================
+## How does it work?
 
 - You will have two APKs:
     - The app apk (application under test)
@@ -89,8 +81,7 @@ How does it work?
     - The AndroidJUnitRunner will run the test suite against the application under test in a same
     process such as App Process. (see image attached)
 
-Implementing Instrumented UI Tests
-==================================
+## Implementing Instrumented UI Tests
 
 - Separate from instrumented Unit tests in different folder (AndroidTest).
 
@@ -98,8 +89,7 @@ Implementing Instrumented UI Tests
 
 - Requires Android environment (emulator or physical device).
 
-Espresso Features
-=================
+## Espresso Features
 
 - A key benefit of using Espresso is that it provides automatic synchronization of test actions with
 the UI of the app you are testing.
@@ -110,8 +100,7 @@ appropriate time, improving the reliability of your tests.
 - This capacity also helps you from adding any timing workarounds, such as Thread.sleep() in your
 test code.
 
-Advantages of Espresso
-======================
+## Advantages of Espresso
 
 - It is simple to use
 
