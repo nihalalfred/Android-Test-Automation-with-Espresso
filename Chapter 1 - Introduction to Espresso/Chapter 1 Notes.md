@@ -42,6 +42,8 @@ focus on the code you care about.
 - Behaviour
 - Foundation -> AndroidX Espresso - > Test (see attached image)
 
+<img src="https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%201%20-%20Introduction%20to%20Espresso/Android%20Jetpack.png" height="600" width="1000" >
+
 ## AndroidX
 
 
@@ -80,6 +82,7 @@ and run tests.
 - After installing the two APKs on the target device:
     - The AndroidJUnitRunner will run the test suite against the application under test in a same
     process such as App Process. (see image attached)
+<img src="https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%201%20-%20Introduction%20to%20Espresso/How%20does%20it%20work.png" height="600" width="1000" >
 
 ## Implementing Instrumented UI Tests
 
