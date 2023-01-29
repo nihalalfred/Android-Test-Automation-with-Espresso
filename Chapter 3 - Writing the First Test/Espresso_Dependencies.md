@@ -5,9 +5,11 @@ To add or use Espresso in our project, two steps are required.
 
 > androidTestImplementation ‘androidx.test.espresso:espresso-core:3.1.0’
 
->androidTestImplementation ‘androidx.test:runner:1.1.0’
+>androidTestImplementation ‘androidx.test:'runner:1.1.0’
 
 >androidTestImplementation ‘androidx.test:rules:1.1.0’
+
+<img src="https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Screenshots/Espresso%20Dependencies.png" height="600" width="1000" >
 
 Note: 
 - Once you add any new dependencies you would need to click `Sync Now` which usually shows up in the upper corner to begin downloading dependencies for Gradle.
@@ -21,3 +23,4 @@ Note:
 
     >testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
+<img src="https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Screenshots/testInstrumentationRunner.png" height="600" width="1000" >
