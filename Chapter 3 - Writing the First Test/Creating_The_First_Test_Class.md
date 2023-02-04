@@ -161,6 +161,6 @@ public class ChangeTextTest {
 
 #### 9. Now you can run your tests by clicking on the green play button on the left of the test defination method.
 
-<img scr="https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Screenshots/RunningYourFirstTest.gif" height="600" width="1000" >
+[Click here to see recording]("https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Screenshots/RunningYourFirstTest.gif")
 
  👏 👏 *Congratulations! You have just finished writing your first test script using Espresso and Java.* 🔥 🔥
