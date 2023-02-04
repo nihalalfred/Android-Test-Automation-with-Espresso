@@ -31,3 +31,10 @@
 
 8. Once you save it you will find the file created which you can locate and tap on the Double Green Arrow to run and execute the test and view the Test Results. 
 <img src="https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Screenshots/RunningRecordedTests.png" height="600" width="1000" >
+
+## Limitations of Espresso Test Recorder
+
+1. Currently you can only record a single test method per class.
+2. UI assertions seem limited to your own UI Code.
+3. Handling background tasks need to be done manually.
+
