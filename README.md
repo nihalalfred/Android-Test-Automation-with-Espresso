@@ -12,3 +12,5 @@ My learnings from [Android Test Automation with Espresso TAU course by Moataz Na
 ### Chapter 3
 - [Espresso_Dependencies](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%203%20-%20Writing%20the%20First%20Test/Espresso_Dependencies.md)
 - [Writing Your First Test using Espresso Test Recorder](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%203%20-%20Writing%20the%20First%20Test/Espresso_Test_Recorder.md)
+- [Inspecting Elements](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%203%20-%20Writing%20the%20First%20Test/Inspecting_Elements.md)
+- [Writing your first test using Espresso & Java](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%203%20-%20Writing%20the%20First%20Test/Creating_The_First_Test_Class.md)
