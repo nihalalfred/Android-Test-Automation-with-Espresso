@@ -16,6 +16,8 @@ To create the basic test structure of your first Espresso UI test class we would
 
 #### 3. The class name can be anything. For this example we are going to call it as `ChangeTextTest`
 
+<img src="https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Screenshots/CreatingYourFirstTestClass1.png" height="600" width="1000" >
+
 #### 4. Once the test class is created the first step is add an annotation to run this test using the AndroidJUnitRunner. 
 - The annotation `@RunWith` will take `AndroidJUnit4.class` as an argument as follows:
 
@@ -31,6 +33,8 @@ public class ChangeTextTest {
 }
 ```
 - Notice that after filling in the `@RunWith` annotation a green icon appears next to the test class that enables us to run our test.
+
+<img src="https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Screenshots/GreenIconToRunTests.png" height="600" width="1000" >
 
 #### 5. The next step is to an activity `test rule`.
 
@@ -101,6 +105,8 @@ public class ChangeTextTest {
     b. `@id/changeTextBt`
 
     c. `@id/textToBeChanged`
+   
+  <img src="https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Screenshots/LayoutInspectorViews.png" height="600" width="1000" >
 
 
 #### 8. Having the elementIDs we can proceed in writing our Espresso test script.
@@ -155,6 +161,6 @@ public class ChangeTextTest {
 
 #### 9. Now you can run your tests by clicking on the green play button on the left of the test defination method.
 
+<img scr="https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Screenshots/RunningYourFirstTest.gif" height="600" width="1000" >
+
  👏 👏 *Congratulations! You have just finished writing your first test script using Espresso and Java.* 🔥 🔥
-
-
