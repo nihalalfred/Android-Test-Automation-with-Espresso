@@ -41,6 +41,7 @@ Espresso will do all the work of finding the row in the Adapter object and makin
 
 - This is done to conserve memory and to maintain UI responsiveness even if the underlying amount of data is large.
 
+<img src="https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Screenshots/How%20AdapterView%20Works.png" height="600" width="1000" >
 
 
 
