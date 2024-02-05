@@ -21,3 +21,7 @@ My learnings from [Android Test Automation with Espresso TAU course by Moataz Na
 - [Testing_Espresso_Lists](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%204.1%20-%20Data%20Adapter/Testing_Espresso_Lists.md)
 - [ViewAssertions](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%204.1%20-%20Data%20Adapter/ViewAssertions.md)
 - [ViewMatchers](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%204.1%20-%20Data%20Adapter/ViewMatchers.md)
+
+### Chapter 4.2
+- [RecyclerView](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%204.2%20-%20RecyclerView%20and%20ToastMessage/RecyclerView.md)
+- [Testing Toast Message](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%204.2%20-%20RecyclerView%20and%20ToastMessage/Testing%20Toast%20Message.md)
