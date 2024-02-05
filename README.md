@@ -31,3 +31,6 @@ My learnings from [Android Test Automation with Espresso TAU course by Moataz Na
 
 ### Chapter 4.4
 - [Testing Intents](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%204.4%20-%20Intents/Testing%20Intents.md)
+
+### Chapter 5
+- [Web Testing With Espresso](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%205%20-%20Web%20Testing%20With%20Espresso/Espresso%20Web.md)
