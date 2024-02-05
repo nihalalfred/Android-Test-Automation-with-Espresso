@@ -1,0 +1,1 @@
+![Chapter 7.2 Notes](chapter7-2.png)
