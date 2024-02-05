@@ -14,3 +14,10 @@ My learnings from [Android Test Automation with Espresso TAU course by Moataz Na
 - [Writing Your First Test using Espresso Test Recorder](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%203%20-%20Writing%20the%20First%20Test/Espresso_Test_Recorder.md)
 - [Inspecting Elements](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%203%20-%20Writing%20the%20First%20Test/Inspecting_Elements.md)
 - [Writing your first test using Espresso & Java](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%203%20-%20Writing%20the%20First%20Test/Creating_The_First_Test_Class.md)
+
+### Chapter 4.1
+- [Espresso_Components](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%204.1%20-%20Data%20Adapter/Espresso_Components.md)
+- [TestExamplesDataAdaptor](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%204.1%20-%20Data%20Adapter/TestExamplesDataAdaptor.md)
+- [Testing_Espresso_Lists](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%204.1%20-%20Data%20Adapter/Testing_Espresso_Lists.md)
+- [ViewAssertions](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%204.1%20-%20Data%20Adapter/ViewAssertions.md)
+- [ViewMatchers](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%204.1%20-%20Data%20Adapter/ViewMatchers.md)
