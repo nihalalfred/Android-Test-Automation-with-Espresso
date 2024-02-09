@@ -1,7 +1,7 @@
 # Android-Test-Automation-with-Espresso
 My learnings from [Android Test Automation with Espresso TAU course by Moataz Nabil](https://testautomationu.applitools.com/espresso-mobile-testing-tutorial/)
 
-<img src="https://github.com/nihalalfred/todomvc-tests/blob/main/screenshots/certificates_TAU-e111f3f62e.png" width="500" height="400">
+<img src="https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Screenshots/certificates_TAU-52de035e.png" width="500" height="400">
 
 ### Chapter 1
 - [Introduction to Espresso](https://github.com/nihalalfred/Android-Test-Automation-with-Espresso/blob/main/Chapter%201%20-%20Introduction%20to%20Espresso/Chapter%201%20Notes.md)
